@@ -1,6 +1,7 @@
 # Simple Code Editor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple code editor having feature of Automatic Syntax Highlighting
+![image](https://github.com/user-attachments/assets/6a0e5af0-8d40-41bf-a584-f4aac00f93a7)
 
 Currently, two official plugins are available:
 
