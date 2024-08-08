@@ -25,7 +25,7 @@ const App = () => {
     <div>
       <Header />
       <div className="code-editor-container">
-        <Highlight theme={themes.shadesOfPurple} code={code} language="jsx">
+        <Highlight theme={themes.shadesOfBlack} code={code} language="jsx">
           {({ className, style, tokens, getLineProps, getTokenProps }) => (
             <pre
               ref={preRef}
